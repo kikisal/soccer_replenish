@@ -1,0 +1,1 @@
+ar rcs .\libs\libengy.a .\libs\libwindow.a
